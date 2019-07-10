@@ -8,6 +8,9 @@ width: 300px;
 margin:0px;
 padding: 30px;
 }
+#article{
+margin-right:100px;
+}
 #active {
   color:red;
 }
